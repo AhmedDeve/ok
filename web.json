@@ -1,22 +1,26 @@
 [
 {
 "name":"flat icon",
-"url":"https://www.flaticon.com",
-"about":"يتيح لك هذا الموقع الحصول علي أيقونات إحترافية يمكنك إستخدامها في تصاميمك المتعددة بدون حقوق الطبع والنشر"
+"url":"https://www.flaticon.com"
 },
 {
 "name":"freepick",
-"url":"https://www.freepik.com",
-"about":"هذا الموقع يعتبر كنز للمصممين فهو يحتوي علي مجموعة كبيرة من التصاميم الإحترافية التي يمكنك من خلالها أخذ أفكار لتكون مصمم ناجح"
+"url":"https://www.freepik.com"
 },
 {
 "name":"pexels",
-"url":"https://www.pexels.com",
-"about":"يتيح لك هذا  الموقع صور إحترافية وبدقة عالية يمكنك الخصول عليها بشكل مجاني"
+"url":"https://www.pexels.com"
 },
 {
 "name":"pixabay",
-"url":"https://pixabay.com",
-"about":"من أضخم المواقع لتحميل الصور حيث يحتوي علي أكثر من 1.9مليون صورة بدون حقوق طبع ونشرpixabayيعتبر موقع"
+"url":"https://pixabay.com"
+},
+{
+"name":"stocksnap",
+"url":"https://stocksnap.io"
+},
+{
+"name":"imagebase",
+"url":"http://imagebase.net"
 }
 ]
